@@ -1,5 +1,5 @@
-. I# Overview
-The link is https://rohitk2.github.io/Tableau_Demonstration.
+# Overview
+The link is https://rohitk2.github.io/Tableau_Demonstration/.
 My Visualization follows a interactive slideshow style. It highlights how the Fighting Illini basketball team did in comparison with the rest of the Big Ten. Apart from the overview slide an the introduction slide, the slides each follow one of the two templates. There is one template in which I show a paragraph description. This paragraph written in blue discusses the trends of the next few slides. The other slide follows a gantt bar chart structure. To navigate from slide to slide you click on the arrows on the sides. I extracted the data from the Big Ten sports homepage.
 
 # Introduction, Starters & Table
